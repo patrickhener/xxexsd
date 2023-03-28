@@ -5,7 +5,7 @@
   xmlns:nurc="http://www.nurc.nato.int"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.opengis.net/wcs http://schema.opengis.net/wcs/1.0.0/describeCoverage.xsd">
-<Coverage>
+<Coverage xmlns:xi="http://www.w3.org/2001/XInclude">
 		<xi:include href="file:///etc/passwd" parse="text"/>
 </Coverage>
 </DescribeCoverage>
