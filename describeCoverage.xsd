@@ -1,5 +1,11 @@
-<DescribeCoverage version="1.0.0" service="WCS">
-	<Coverage>
+<DescribeCoverage
+  version="1.0.0"
+  service="WCS"
+  xmlns="http://www.opengis.net/wcs"
+  xmlns:nurc="http://www.nurc.nato.int"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.opengis.net/wcs http://schema.opengis.net/wcs/1.0.0/describeCoverage.xsd">
+<Coverage>
 		<xi:include href="file:///etc/passwd" parse="text"/>
-	</Coverage>
-</DescribeConverage>
+</Coverage>
+</DescribeCoverage>
