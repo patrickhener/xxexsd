@@ -1,4 +1,4 @@
-<DescribeCoverage>
+<DescribeCoverage version="1.0.0" service="WCS">
 	<Coverage>
 		<xi:include href="file:///etc/passwd" parse="text"/>
 	</Coverage>
