@@ -1,0 +1,7 @@
+<xs:schema elementFormDefault="qualified"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:myNS="myNS">
+
+    <xs:import namespace="myNS" schemaLocation="file:///etc/passwd"/>
+    <xs:include namespace="myNS2" schemaLocation="file:///etc/passwd"/>
+</xs:schema>
