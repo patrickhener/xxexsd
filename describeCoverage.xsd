@@ -1,0 +1,5 @@
+<DescribeCoverage>
+	<Coverage>
+		<xi:include href="file:///etc/passwd" parse="text"/>
+	</Coverage>
+</DescribeConverage>
